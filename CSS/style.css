@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #e13a9d;
+}
+#pics{
+  background-image: linear-gradient(#ddf3f5,#a6dcef,#b2ebf2,#00bcd4);
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#pics .adi{
+  width:50%;
+  border-radius: 100%;
+  border-style: dotted;
+  border-color: #0f4c75;
+  border-width: thick;
+}
+#pics .party img{
+  width:30%
+}
+#pics h1{
+  font-size: 250%;
+  color:#0f4c75;
+  margin:0;
+}
+
+#friend1{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: white;
+  text-align: center;
+  background-image: radial-gradient(#2a1a5e, #5026a7, #cc6a87);
+}
+#friend1 .name{
+  font-family: "Monoton", sans-serif;
+  font-size: 3.5rem;
+  color: #e4f9ff
+}
+#friend1 .pic img{
+  border-radius: 25%;
+  width: 50%;
+  border-color: #e4f9ff;
+  border-style:double;
+  border-width: thick;
+}
+#friend1 .message{
+  padding: 1%;
+  border-top: 5px solid #fa26a0;
+  border-bottom: 5px solid #fa26a0;
+  border-radius: 8%;
+  width: 70%;
+  margin: 2% auto;
+  background-color: #ffe4e4;
+  color:#394989;
+  font-family: "Chilanka",sans-serif;
+}
+
+#friend2{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  color:#84142d;
+  background-image: radial-gradient(#ffe9c5, #ffd868, #d63447);
+
+}
+#friend2 .name{
+  font-family: "Monoton", sans-serif;
+  font-size: 3.5rem;
+}
+#friend2 .pic img{
+  border-radius: 25%;
+  width: 50%;
+  border-color: #84142d;
+  border-style: double;
+  border-width: thick;
+}
+#friend2 .message{
+  padding: 1%;
+  border-top: 5px solid #ff0000;
+  border-bottom: 5px solid #ff0000;
+  border-radius: 8%;
+  width: 70%;
+  margin: 2% auto;
+  background-color: #801336;
+  color:#ffdbc5;
+  font-family: "Chilanka",sans-serif;
+}
